@@ -4,7 +4,13 @@ This code review is part of my CS 499 Computer Science Capstone ePortfolio. In t
 
 ### Code Review Video
 
-[Code Review Video Link Coming Soon](#)
+### Code Review Videos
+
+Due to file size limitations, the code review was recorded in three parts.
+
+- [CS 499 Code Review - Part 1](https://youtu.be/KfzddDZ7hWw)
+- [CS 499 Code Review - Part 2](https://youtu.be/aL-11cm8RwM)
+- [CS 499 Code Review - Part 3](https://youtu.be/sx8Wyf489KE)
 
 ### Enhancement Categories
 
