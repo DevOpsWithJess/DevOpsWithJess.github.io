@@ -2,8 +2,6 @@
 
 This code review is part of my CS 499 Computer Science Capstone ePortfolio. In this review, I discuss the original artifacts selected for enhancement, the improvements planned for each category, and how these projects demonstrate my growth throughout the Computer Science program.
 
-### Code Review Video
-
 ### Code Review Videos
 
 Due to file size limitations, the code review was recorded in three parts.
