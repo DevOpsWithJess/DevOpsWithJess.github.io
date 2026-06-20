@@ -24,7 +24,7 @@ These enhancements demonstrate the importance of database design, relational dat
 
 ### Repository
 
-- [CS 360 WeightTrack Lite Repository](PASTE_REPO_LINK_HERE)
+- [Android Weight Tracker Repository](https://github.com/DevOpsWithJess/Android-Weight-Tracker-App)
 
 ### Skills Demonstrated
 
