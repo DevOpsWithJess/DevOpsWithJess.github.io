@@ -16,10 +16,15 @@ These enhancements demonstrate the importance of database design, relational dat
 
 ### Files
 
-- Narrative: ADD LINK
-- Original Artifact: ADD LINK
-- Enhanced Artifact: ADD LINK
-- Repository: ADD LINK
+### Files
+
+- Narrative: [View Narrative](portfolio-files/Artifact3_Narrative.docx)
+- Original Artifact: [Download Original Artifact](portfolio-files/Artifact3_Original.zip)
+- Enhanced Artifact: [Download Enhanced Artifact](portfolio-files/Artifact3_Enhanced.zip)
+
+### Repository
+
+- [CS 360 WeightTrack Lite Repository](PASTE_REPO_LINK_HERE)
 
 ### Skills Demonstrated
 
