@@ -1,12 +1,39 @@
-Professional Self Assessment
-Jessica Johnson
-06/20/2026
+# Professional Self Assessment
+## Jessica Johnson
+## 06/20/2026
+
+---
+### Introduction
 Completing my Bachelor of Science in Computer Science with a concentration in Software Engineering at Southern New Hampshire University is an accomplishment that means a great deal to me. This degree has been a long time coming. Like many people, my path to graduation was not always straightforward, but earning this degree has given me the opportunity to combine years of professional experience with a new set of technical skills. Before pursuing computer science, my career was focused on healthcare leadership, team development, and operational support. Through this program, I developed skills in software engineering, databases, algorithms, testing, and secure coding while building on the problem-solving, communication, and leadership abilities I had already developed throughout my career.
+
+---
+### Collaboration and Communication
 Throughout the Computer Science program, I strengthened my ability to collaborate with others and communicate technical information to a variety of audiences. Many projects required the creation of technical documentation, presentations, design diagrams, testing plans, and code reviews. The code review completed during this capstone project reinforced the importance of clearly communicating technical decisions and identifying opportunities for improvement in existing systems. My professional experience leading pharmacy teams and supporting human resources operations also helped me understand how to communicate effectively with both technical and non-technical stakeholders. These experiences have prepared me to work collaboratively in professional environments where successful projects depend on strong communication, documentation, and teamwork.
+
+---
+### Software Engineering
 One of the most valuable skills I developed throughout the program was learning how to approach software engineering problems in a structured and organized way. Through coursework and project development, I gained experience designing, building, testing, and enhancing software applications using a variety of programming languages and tools. My Software Design and Engineering artifact, the Raspberry Pi Smart Thermostat project, demonstrates these skills through the implementation of a Flask-based dashboard enhancement. This project required me to evaluate an existing system, improve its organization, and create a more user-friendly solution while maintaining the original functionality. The enhancement reinforced the importance of modular design, maintainability, scalability, and thoughtful software architecture. It also demonstrated how software can be expanded over time without requiring major changes to the underlying system.
+
+---
+### Data Structures and Algorithms
 My understanding of data structures and algorithms was strengthened through projects that required careful evaluation of efficiency, performance, and design tradeoffs. The Algorithms and Data Structures artifact, the ABC University Course Planner, demonstrates my ability to select and implement appropriate data structures based on application requirements. The project utilizes a hash table to provide efficient course lookups while incorporating vector-based sorting functionality to support multiple display options. Through this enhancement, I gained a deeper appreciation for algorithm analysis, time complexity, and the importance of balancing usability with performance. Understanding how different data structures impact software behavior has become an important part of my approach to problem solving and software design.
+
+---
+### Databases
 Database design and management became another important area of growth throughout the program. My Databases artifact, WeightTrack Lite Mobile, demonstrates my ability to design and implement relational database solutions within a real-world application. By migrating data from SharedPreferences into SQLite and creating user-specific database relationships, I improved data integrity, scalability, and application functionality. The addition of reporting capabilities further demonstrated how stored data can be transformed into meaningful information for users. This project reinforced the importance of database architecture, relational design, data validation, and maintaining accurate information within software systems.
+
+---
+### Security
 Developing a security mindset has been an important outcome of my computer science education. Throughout coursework involving secure coding practices, software testing, and application development, I learned to consider potential vulnerabilities and security risks during the design and implementation process. Concepts such as input validation, error handling, secure data management, and defensive programming have influenced how I approach software development. Security is not a feature that can simply be added at the end of a project. It must be considered throughout the software development lifecycle. This perspective has helped me develop a more complete understanding of professional software development practices and the responsibility developers have to protect data and users.
+
+---
+### Professional Growth
 In addition to the technical skills gained throughout the program, I developed a greater appreciation for the software development process as a whole. Courses involving testing, project planning, requirements gathering, system design, and software maintenance helped me understand that successful software projects require much more than writing code. Effective solutions depend on communication, planning, documentation, testing, and continuous improvement. These experiences have helped prepare me for technology-focused roles where technical knowledge must be combined with collaboration and business needs.
+
+--- 
+### How the Artifacts Work Together
 The artifacts included in this ePortfolio work together to demonstrate the range of skills and knowledge I developed throughout the Computer Science program. The Smart Thermostat enhancement showcases software engineering principles, system design, and embedded systems development. The ABC University Course Planner highlights data structures, algorithms, efficiency, and design tradeoffs. The WeightTrack Lite enhancement demonstrates database design, relational data management, and application integration. Together, these artifacts illustrate my ability to analyze existing systems, implement meaningful improvements, and apply computer science principles to solve real-world problems.
+
+---
+### Conclusion
 Completing this capstone and building my ePortfolio has given me the opportunity to reflect on how much I have grown throughout this program. These projects represent more than course assignments. They demonstrate my transition into the technology field and the skills I have developed along the way. From software engineering and database design to algorithms, testing, and security, each artifact highlights a different aspect of my growth as a computer science professional. As I begin the next chapter of my career, I am excited to apply these skills in technology-focused roles where I can continue learning, solving problems, and helping organizations improve through technology. Earning this degree is an accomplishment I am extremely proud of, and this portfolio reflects the dedication, perseverance, and growth that helped me reach this goal.
