@@ -1,23 +1,18 @@
-## CS 499 Code Review
+# Jessica Johnson
+## CS 499 Computer Science Capstone ePortfolio
 
-This code review is part of my CS 499 Computer Science Capstone ePortfolio. In this review, I discuss the original artifacts selected for enhancement, the improvements planned for each category, and how these projects demonstrate my growth throughout the Computer Science program.
+Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio includes my professional self-assessment, code review, and three enhanced artifacts that demonstrate my growth in software design and engineering, algorithms and data structures, and databases.
 
-### Code Review Videos
+## Portfolio Sections
 
-Due to file size limitations, the code review was recorded in three parts.
+- [Professional Self-Assessment](professional-self-assessment.md)
+- [Code Review](code-review.md)
+- [Artifact One: Software Design and Engineering](artifact-one-software-design.md)
+- [Artifact Two: Algorithms and Data Structures](artifact-two-algorithms.md)
+- [Artifact Three: Databases](artifact-three-databases.md)
 
-- [CS 499 Code Review - Part 1](https://youtu.be/KfzddDZ7hWw)
-- [CS 499 Code Review - Part 2](https://youtu.be/aL-11cm8RwM)
-- [CS 499 Code Review - Part 3](https://youtu.be/sx8Wyf489KE)
-
-### Enhancement Categories
-
-- Software Design and Engineering
-- Algorithms and Data Structures
-- Databases
-
-### Selected Artifacts
+## Selected Artifacts
 
 - CS 350 Raspberry Pi Smart Thermostat
 - CS 300 ABC University Course Planner
-- CS 360 Android Weight Tracker App
+- CS 360 WeightTrack Lite Android App
