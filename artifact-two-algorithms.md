@@ -14,10 +14,13 @@ The project demonstrates the importance of selecting appropriate data structures
 
 ### Files
 
-- Narrative: ADD LINK
-- Original Artifact: ADD LINK
-- Enhanced Artifact: ADD LINK
-- Repository: ADD LINK
+- Narrative: [View Narrative](portfolio-files/Artifact2_Narrative.docx)
+- Original Artifact: [Download Original Artifact](portfolio-files/Artifact2_Original.zip)
+- Enhanced Artifact: [Download Enhanced Artifact](portfolio-files/Artifact2_Enhanced.zip)
+
+### Repository
+
+- [CS 300 Course Planner Repository](PASTE_REPO_LINK_HERE)
 
 ### Skills Demonstrated
 
