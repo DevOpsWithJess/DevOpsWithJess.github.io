@@ -12,10 +12,13 @@ For my CS 499 enhancement, I improved the software design and engineering aspect
 
 ### Files
 
-- Narrative: ADD LINK
-- Original Artifact: ADD LINK
-- Enhanced Artifact: ADD LINK
-- Repository: ADD LINK
+- Narrative: [View Narrative](portfolio-files/Artifact1_Narrative.docx)
+- Original Artifact: [Download Original Artifact](portfolio-files/Artifact1_Original.zip)
+- Enhanced Artifact: [Download Enhanced Artifact](portfolio-files/Artifact1_Enhanced.zip)
+
+### Repository
+
+- [CS 350 Smart Thermostat Repository](PASTE_REPO_LINK_HERE)
 
 ### Skills Demonstrated
 
