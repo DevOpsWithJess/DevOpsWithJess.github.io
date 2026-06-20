@@ -22,10 +22,6 @@ These enhancements demonstrate the importance of database design, relational dat
 - Original Artifact: [Download Original Artifact](portfolio-files/Artifact3_Original.zip)
 - Enhanced Artifact: [Download Enhanced Artifact](portfolio-files/Artifact3_Enhanced.zip)
 
-### Repository
-
-- [Android Weight Tracker Repository](https://github.com/DevOpsWithJess/Android-Weight-Tracker-App)
-
 ### Skills Demonstrated
 
 - Database Design
