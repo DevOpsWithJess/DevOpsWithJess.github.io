@@ -18,10 +18,6 @@ The project demonstrates the importance of selecting appropriate data structures
 - Original Artifact: [Download Original Artifact](portfolio-files/Artifact2_Original.zip)
 - Enhanced Artifact: [Download Enhanced Artifact](portfolio-files/Artifact2_Enhanced.zip)
 
-### Repository
-
-- [ABC University Course Planner Repository](https://github.com/DevOpsWithJess/ABC-University-Course-Planner)
-
 ### Skills Demonstrated
 
 - Data Structures and Algorithms
