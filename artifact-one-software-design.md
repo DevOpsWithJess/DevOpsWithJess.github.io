@@ -18,7 +18,7 @@ For my CS 499 enhancement, I improved the software design and engineering aspect
 
 ### Repository
 
-- [CS 350 Smart Thermostat Repository](PASTE_REPO_LINK_HERE)
+- [Raspberry Pi Embedded Systems Repository](https://github.com/DevOpsWithJess/Raspberry-Pi-Embedded-Systems)
 
 ### Skills Demonstrated
 
