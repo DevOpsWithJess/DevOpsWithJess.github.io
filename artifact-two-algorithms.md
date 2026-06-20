@@ -20,7 +20,7 @@ The project demonstrates the importance of selecting appropriate data structures
 
 ### Repository
 
-- [CS 300 Course Planner Repository](PASTE_REPO_LINK_HERE)
+- [ABC University Course Planner Repository](https://github.com/DevOpsWithJess/ABC-University-Course-Planner)
 
 ### Skills Demonstrated
 
